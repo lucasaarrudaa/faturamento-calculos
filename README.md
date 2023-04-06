@@ -1,11 +1,11 @@
 # Faturamento_calculos
 Calculos dados de um faturamento mensal, semanal e diario.
 
-# Resumo dos objetivos: 
+## Resumo dos objetivos: 
 
-## O projeto consistiu em analisar os dados de faturamento mensal, semanal e diário de um estabelecimento. Um arquivo JSON com as semanas do mês foi fornecido e foi necessário realizar conversões para BRL. As bibliotecas do Python json e pandas foram utilizadas, json para ler o arquivo e pandas para análise dos dados. 
+**O projeto consistiu em analisar os dados de faturamento mensal, semanal e diário de um estabelecimento. Um arquivo JSON com as semanas do mês foi fornecido e foi necessário realizar conversões para BRL. As bibliotecas do Python json e pandas foram utilizadas, json para ler o arquivo e pandas para análise dos dados. 
 
-## As conclusões alcançadas incluíram a média do faturamento mensal, a média de cada semana do mês, a quantidade de dias em que a média diária foi maior que a mensal, o maior faturamento em um dia do mês e o menor faturamento em um dia do mês.
+**As conclusões alcançadas incluíram a média do faturamento mensal, a média de cada semana do mês, a quantidade de dias em que a média diária foi maior que a mensal, o maior faturamento em um dia do mês e o menor faturamento em um dia do mês.
 
 ## Descrição do código:
 
